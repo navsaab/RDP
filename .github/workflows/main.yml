@@ -25,4 +25,4 @@ jobs:
         net user runneradmin "P@ssw0rd!"
 
     - name: Start ngrok tunnel (foreground)
-      run: .\ngrok\ngrok.exe tcp 3389￼Enter
+      run: .\ngrok\ngrok.exe tcp 3389
